@@ -14,3 +14,15 @@
   </ul>
 <p><a href="https://thecodeangle.com/blog">➡️ More blog posts</a></p>
 
+<h2>Latest YouTube Videos</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=kbvNrd7bBXs">How to Create a Multi-Step Form With React, React Hooks, Bootstrap and Firebase</a></li>
+    <li><a href="https://www.youtube.com/watch?v=QM9jwMgKPVk&t=3s">Deploy a Full-Stack Node.js and JavaScript Application using Heroku & Netlify
+    </a></li>
+    <li><a href="https://www.youtube.com/watch?v=6E9h_uU6Vck&t=3s">Create a Proxy Server API Using node.js, Express.js and Vanilla JavaScript
+</a></li>
+    <li><a href="https://www.youtube.com/watch?v=hFbYcpsDsKk&t=39s">Amazing Moving Background Image Using Just HTML & CSS Animation Keyframes #1
+</a></li>
+    <li><a href="https://www.youtube.com/watch?v=9wSKHlpxiLI&t=3s">Setup React using Webpack 5 and Babel Tutorial in 2021
+</a></li>
+  </ul>
