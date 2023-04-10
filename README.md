@@ -9,7 +9,7 @@
     
 <h2>Latest Blog Posts</h2>
   <ul>
-    <li><a https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api/>How to Integrate Chart.js in Angular Using Data from a REST API
+    <li><a href="https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api">How to Integrate Chart.js in Angular Using Data from a REST API
 </a></li>
     <li><a https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/>How to Toggle an Element in React using React Hooks
 </a></li>
