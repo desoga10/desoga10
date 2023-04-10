@@ -9,13 +9,13 @@
     
 <h2>Latest Blog Posts</h2>
   <ul>
-    <li><a href=https://www.freecodecamp.org/news/author/desoga/>How to Integrate Chart.js in Angular Using Data from a REST API
+    <li><a https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api/>How to Integrate Chart.js in Angular Using Data from a REST API
 </a></li>
-    <li><a href=https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/>How to Toggle an Element in React using React Hooks
+    <li><a https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/>How to Toggle an Element in React using React Hooks
 </a></li>
     <li><a https://dev-academy.com/react-firebase/>Build a To-Do Application with React and Firebase
 </a></li>
-    <li><a href=https://thecodeangle.com/4-ways-to-create-a-modal-popup-box-with-html-css-and-vanilla-javascript/>4 Ways to Create a Modal Popup Box with Html, CSS and Vanilla JavaScript</a></li>
+    <li><a https://thecodeangle.com/4-ways-to-create-a-modal-popup-box-with-html-css-and-vanilla-javascript/>4 Ways to Create a Modal Popup Box with Html, CSS and Vanilla JavaScript</a></li>
     <li><a https://www.educative.io/answers/what-is-property-binding-in-angular/>What is property binding in Angular?
 </a></li>
   </ul>
