@@ -9,11 +9,15 @@
     
 <h2>Latest Blog Posts</h2>
   <ul>
-    <li><a href=https://thecodeangle.com/top-10-date-pickers-in-react>Top 10 Date Pickers in React</a></li>
-    <li><a href=https://thecodeangle.com/a-detailed-breakdown-of-html-form-event-attributes/>A Detailed Breakdown of HTML Form Event Attributes</a></li>
-    <li><a href=https://thecodeangle.com/5-reasons-why-dark-mode-matters/>5 Reasons Why Dark Mode Matters</a></li>
+    <li><a href=https://www.freecodecamp.org/news/author/desoga/>How to Integrate Chart.js in Angular Using Data from a REST API
+</a></li>
+    <li><a href=https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/>How to Toggle an Element in React using React Hooks
+</a></li>
+    <li><a https://dev-academy.com/react-firebase/>Build a To-Do Application with React and Firebase
+</a></li>
     <li><a href=https://thecodeangle.com/4-ways-to-create-a-modal-popup-box-with-html-css-and-vanilla-javascript/>4 Ways to Create a Modal Popup Box with Html, CSS and Vanilla JavaScript</a></li>
-    <li><a href=https://thecodeangle.com/angular-vs-react-vs-vue-getting-started/>Angular vs React vs Vue – Getting Started</a></li>
+    <li><a https://www.educative.io/answers/what-is-property-binding-in-angular/>What is property binding in Angular?
+</a></li>
   </ul>
 <p><a href="https://thecodeangle.com/blog">➡️ More blog posts</a></p>
 
