@@ -19,7 +19,7 @@
     <li><a href="https://www.educative.io/answers/what-is-property-binding-in-angular">What is property binding in Angular?
 </a></li>
   </ul>
-<p><a href="https://thecodeangle.com/blog">➡️ More blog posts</a></p>
+<p><a href="https://thecodeangle.com">➡️ More blog posts</a></p>
 
 <h2>Latest YouTube Videos</h2>
   <ul>
